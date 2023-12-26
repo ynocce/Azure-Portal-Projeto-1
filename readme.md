@@ -6,6 +6,8 @@ Vamos usar:
 
 - Azure Portal.
 - Azure DevOps.
+  
+##
 
 - Criando uma VM com Window Server 2016 no Azure Portal.
     
@@ -52,7 +54,9 @@ Vamos usar:
     Quando abrir o RDP, coloque o endereço DNS que criou.
     
     ![Untitled](readme/Untitled%205.png)
-    
+
+##
+
 - Configurando o ISS no Windows Server 2016.
     
     1 - Instale o ISS no servidor, clicando em Manage → Add Roles and Features.
@@ -107,7 +111,8 @@ Vamos usar:
     Reset o ISS, pelo powershell: `IISRESET`
     
     ![Untitled](readme/Untitled%2014.png)
-    
+
+##
 - Instalando Deployment Group na VM.
     
     1 - Acesse seu Azure DevOps → Pipelines → Deployment Groups
@@ -130,7 +135,8 @@ Vamos usar:
     Pronto está funcionando no DG e online, para realizarmos o Deploy.
     
     ![Untitled](readme/Untitled%2018.png)
-    
+
+##
 - Configurando uma Release com o Deployment Group.
     
     1 - Acesse o Azure DevOps → Pipelines → Releases → Crie uma Nova release.
