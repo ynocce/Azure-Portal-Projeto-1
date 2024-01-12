@@ -22,7 +22,7 @@ Vamos usar:
     - Selecione a imagem Windows Server 2016 x64 Gen2
     - Escolha a VM que você deseja utilizar.
         
-        No meu caso irei utilizar a mais barata por hora.
+        No meu caso irei utilizar a B2s.
         
     
     ![Untitled](readme/Untitled.png)
