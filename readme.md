@@ -177,8 +177,9 @@ Vamos usar:
     
     ![Untitled](readme/Untitled%2027.png)
     
-    9 - Agora abra o endereço DNS da nossa VM no seu navegador. 
-    
+    9 - Agora abra o endereço DNS da nossa VM no seu navegador.
+  
+  ##  
     Pronto, foi feito Deploy da sua aplicação utilizando o Deployment Group + ISS.
     
     Espero que tenha ajudado você com esse tutorial :-D.
